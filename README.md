@@ -135,3 +135,33 @@
     - In Progress
     - Code Review
     - Done
+
+## Pair Programming
+
+- two programmers work together on the same computer
+- Driver/Navigator (micro/macro)
+
+- Benefits
+  - thought partner
+  - quicker
+  - learning opportunities from other developer
+
+- Drawbacks
+  - inneficient (2 devs to do one job)
+  - increased development costs
+  - personality traits
+
+## Mob Programming
+
+- whole team (4-6 people) work on one project on one computer
+- navigator/driver/facilitator/mob (selects best course of action)
+
+- Benefits
+  - real-time reviews
+  - continuous learning
+  - fast feedback
+
+- Drawbacks
+  - team dynamics, learning styles/differences
+  - inefficient
+  - avoid participation and/or one monopolize time
